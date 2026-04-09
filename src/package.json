@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/hidao80/TsumiQiita#readme",
   "devDependencies": {
-    "electron": "^35.7.5",
+    "electron": "^41.2.0",
     "electron-builder": "^20.29.0"
   },
   "dependencies": {
